@@ -61,6 +61,10 @@ O projeto adota uma arquitetura de separação de conceitos através de módulos
 ### 🛠️ Compilação do Programa Principal
 Para compilar o ecossistema completo do conversor a partir de seu ponto de entrada, execute o seguinte comando no seu terminal:
 ```bash
+<<<<<<< HEAD
 g++ -O2 main6.cpp -o conversor_universal
 
 LINK DO VIDEO DA DUPLA : https://drive.google.com/file/d/1yyw4w0XbXT-_Fyn8zGAhuTrYbqPOsyCx/view?usp=drive_link;
+=======
+g++ -O2 main6.cpp -o conversor_universal
+>>>>>>> 008e9f768a56acf5031d65a5341dacaefea8bef6
