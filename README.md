@@ -63,6 +63,4 @@ Para compilar o ecossistema completo do conversor a partir de seu ponto de entra
 ```bash
 g++ -O2 main6.cpp -o conversor_universal
 
-LINK DO VIDEO DA DUPLA
-
-https://drive.google.com/file/d/1siK1Wb1uADW7Er_JeTKZeDArsY3u7pDl/view?usp=sharing
+LINK DO VIDEO DA DUPLA : https://drive.google.com/file/d/1yyw4w0XbXT-_Fyn8zGAhuTrYbqPOsyCx/view?usp=drive_link;
